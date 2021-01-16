@@ -1,6 +1,6 @@
 ### Hi there 👋
-### - 👯 I’m looking to collaborate on AI Projects
-### - 🤔 I’m looking for help with Research in AI
+### - 👯 I’m looking to collaborate on AI Research
+### - 🤔 I’m looking for help with career opportunities in AI Research
 ### - 💬 Ask me about Deep Learning, TensorFlow and Abstract thoughts..
 ### - 📫 How to reach me: sheoran.tanmay.social@gmail.com
 ### - ⚡ Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
