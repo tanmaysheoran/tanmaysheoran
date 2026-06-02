@@ -1,14 +1,28 @@
-### Hi there 👋
-### - 👯 I’m currently working as a software engineer
-### - 💬 Ask me about Deep Learning, TensorFlow and Abstract thoughts..
-<!-- ### - 📫 How to reach me: sheoran.tanmay.social@gmail.com-->
-### - ⚡ Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
+# Hey, I'm Tanmay 👋
 
-<!--
-**tanmaysheoran/tanmaysheoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Backend Engineer focused on AI, automation, and reliable systems.
 
-Here are some ideas to get you started:
+🚀 Building with LLMs, shipping open source, and occasionally turning strange ideas into software.
 
-- 🔭 I’m currently working on 
- - 😄 Pronouns: ...
--->
+🌱 Currently revisiting my deep-learning roots after a few years building backend systems.
+
+[lackofabetter.work](https://lackofabetter.work) • [LinkedIn](https://linkedin.com/in/tanmaysheoran)
+
+---
+
+### 🚀 Building
+
+* **ai.pdf** → AI-native PDFs that remain valid PDFs while embedding machine-readable structure.
+* **fastapi-audit** → Audit logging middleware for FastAPI with ORM diffs, JWT actor tracking, and tenant-aware context.
+
+### 🧠 Journey
+
+`AI → Backend Engineering → AI`
+
+### 🛠️ Tech
+
+`Python` • `C#` • `FastAPI` • `.NET` • `Claude` • `Embeddings` • `SQL Server` • `CosmosDB` • `MongoDB` • `Azure` • `AWS` • `Docker`
+
+### 🌌 Side Quest
+Building things I probably don't need, exploring ideas that may or may not work, and collecting Gundam figures.
+
