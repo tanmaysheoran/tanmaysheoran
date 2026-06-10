@@ -17,7 +17,7 @@
 
 ### 🧠 Journey
 
-`AI → Backend Engineering → AI ( maybe )`
+`Aeropsace → AI → Backend Engineering → AI ( maybe )`
 
 ### 🛠️ Tech
 
